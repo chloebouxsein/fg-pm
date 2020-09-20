@@ -29,3 +29,5 @@ Testing out new things for the transition from JIRA to Github
 
 ##  Potential Tools to Intgrate
 [Marketplace](https://github.com/marketplace)
+
+- GANTT Lab
